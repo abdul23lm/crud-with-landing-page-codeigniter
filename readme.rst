@@ -50,10 +50,6 @@ Please see the `license
 agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
 *********
-Resources
-*********
-
-*********
 Login User
 *********
 Administrator
@@ -74,7 +70,7 @@ Requirements
 Usage
 *********
 
-Access the (http://localhost/expert-system-of-diagnosing-fever-in-toddlers/authentication) file from via browser and "admin@gmail.com" as username and "admin" as password
+Access the (http://localhost/crud-with-landing-page-codeigniter) file from via browser and "admin@gmail.com" as username and "admin" as password
 
 *********
 Built With
