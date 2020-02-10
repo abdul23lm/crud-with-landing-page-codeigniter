@@ -68,3 +68,27 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+# Login User
+Administrator
+- username: admin, password: admin
+
+# Requirements
+- Codeigtener
+- PHP
+- MySQL
+- Apache
+- Google Chrome web browser (JavaScript enabled)
+- Internet connection with a reasonable speed
+
+# Usage
+Access the (http://localhost/expert-system-of-diagnosing-fever-in-toddlers/authentication) file from via browser and "admin@gmail.com" as username and "admin" as password
+
+# Built With
+- PHP - Scripting language
+- MySQL - Database management system
+- HTML5 - Basic markup
+- CSS3 - Basic styling
+- Bootstrap - Responsive framework
+- jQuery - JS framework
+
